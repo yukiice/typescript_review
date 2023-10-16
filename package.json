@@ -1,0 +1,24 @@
+{
+  "name": "typescript_review",
+  "version": "1.0.0",
+  "description": "TS复习重学",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yukiice/typescript_review.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yukiice/typescript_review/issues"
+  },
+  "homepage": "https://github.com/yukiice/typescript_review#readme",
+  "dependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
+}
